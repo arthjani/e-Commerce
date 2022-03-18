@@ -1,0 +1,5 @@
+package com.mycart.entities;
+
+public class Category {
+
+}
