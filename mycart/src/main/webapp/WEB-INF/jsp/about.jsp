@@ -11,5 +11,7 @@
 </head>
 <body>
 
+<%@include file ="componant/navbar.jsp" %>
+
 </body>
 </html>

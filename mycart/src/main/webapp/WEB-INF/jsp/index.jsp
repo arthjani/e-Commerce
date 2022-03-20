@@ -11,6 +11,8 @@
 </head>
 <body>
 
+<%@include file ="componant/navbar.jsp" %>
+
 <h1>wecome to mycart</h1>
 
 </body>
